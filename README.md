@@ -1,6 +1,6 @@
-# Kafka Connect Docker
+# Docker Compose
 
-## Running
+## Kafka Connect
 
 ```sh
 $ docker-compose up
