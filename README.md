@@ -1,7 +1,5 @@
 # Docker Compose
 
-## Kafka Connect
+## 1. Kafka Connect
 
-```sh
-$ docker-compose up
-```
+## 2. Kafka Connect and Schema Registry
