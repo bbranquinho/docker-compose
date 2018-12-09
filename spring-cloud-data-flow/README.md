@@ -1,0 +1,1 @@
+DATAFLOW_VERSION=1.6.3.RELEASE docker-compose up
